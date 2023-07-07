@@ -1,0 +1,31 @@
+.register-container {
+  display: flex;
+  height: 100vh;
+}
+.register-container-left {
+  width: 50%;
+  background-color: #ffd4d4;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.register-container-left-header {
+  margin-top: 7rem;
+  margin-bottom: 3rem;
+}
+.register-container-left-header h3 {
+  font-family: "Indie Flower", cursive;
+  font-size: 3rem;
+}
+.register-container-right {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.register-container-right h2 {
+  font-size: 2.3rem;
+  margin-top: 3rem;
+}

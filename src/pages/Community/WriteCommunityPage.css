@@ -1,0 +1,42 @@
+.writecommunity {
+  width: 60%;
+  margin: 10rem auto;
+}
+.writecommunity-container {
+  width: 60%;
+  margin: auto;
+  font-size: 1.2rem;
+  padding: 1.2rem;
+}
+.writecommunity-write {
+  width: 60%;
+  margin: 0 auto;
+  font-size: 1.2rem;
+  display: flex;
+  flex-direction: column;
+}
+.writecommunity-write input {
+  border: none;
+  padding: 1.2rem;
+  font-size: 1.2rem;
+  outline: none;
+}
+.writecommunity-write textarea {
+  border: none;
+  padding: 1.2rem;
+  font-size: 1rem;
+  outline: none;
+  color: rgb(57, 57, 57);
+}
+.writecommunity-btn {
+  display: flex;
+  justify-content: end;
+  padding: 1.2rem;
+  gap: 1rem;
+}
+.writecommunity-btn button:nth-child(1) {
+  border: none;
+  padding: 12px 16px;
+  background-color: #aacb73;
+  border-radius: 12px;
+}

@@ -1,0 +1,77 @@
+.homepage {
+  width: 60%;
+  margin: 10rem auto;
+}
+.homepage-main-banner {
+  margin-top: 15rem;
+  display: flex;
+  justify-content: space-between;
+}
+.homepage-main-banner-left {
+  flex: 1;
+}
+.homepage-main-banner-left-info {
+  display: flex;
+  flex-direction: column;
+  margin-left: 5rem;
+  gap: 1rem;
+}
+.homepage-main-banner-right {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.homepage-banner-checkrecord {
+  font-size: 1.7rem;
+  font-weight: 700;
+  margin-bottom: 12px;
+}
+.homepage-main-banner-right-container img {
+  width: 18rem;
+}
+.homepage-main-banner-left {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.homepage-main-banner-left-title {
+  font-size: 3rem;
+  font-family: "Indie Flower", cursive;
+}
+.homepage-main-banner-left-title div {
+  font-size: 5rem;
+}
+
+.homepage-main-banner-right-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+}
+.homepage-main-banner-btn {
+  display: flex;
+  justify-content: center;
+  gap: 3rem;
+  margin-top: 3rem;
+}
+.homepage-main-banner-btn button {
+  padding: 1rem 1.5rem;
+  font-weight: 700;
+  font-size: 1rem;
+  border: none;
+  border-radius: 30px;
+  background-color: white;
+  border: 2px solid black;
+}
+.homepage-main-banner-left-info h1 {
+  color: #aacb73;
+}
+.homepage-main-banner-left-info h1 span {
+  font-size: 1.2rem;
+}
+.homepage-main-banner-btn button:hover {
+  color: white;
+  background-color: black;
+  border: 2px solid white;
+}

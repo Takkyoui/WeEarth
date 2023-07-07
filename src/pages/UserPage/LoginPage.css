@@ -1,0 +1,66 @@
+.login-container-left {
+  background-color: rgb(118, 196, 241);
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 2rem;
+}
+.login-container-left-header {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.login-container-left-header h3 {
+  font-family: "Indie Flower", cursive;
+  font-size: 3rem;
+}
+
+.login-container {
+  display: flex;
+  height: 100vh;
+}
+.login-form-group {
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+  padding: 0.7rem;
+}
+.login-form-group label {
+  font-family: "Indie Flower", cursive;
+  margin-bottom: 10px;
+  font-size: 1.5rem;
+}
+.login-container-right {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.login-form {
+  width: 30%;
+}
+.login-container-right img {
+  width: 50%;
+  height: 50%;
+}
+.login-form-group input {
+  outline: none;
+  padding: 11px 10px;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  font-size: 1.6rem;
+}
+
+.login-form-group button {
+  border: none;
+  border-radius: 12px;
+  height: 2rem;
+  background-color: rgb(255, 226, 226);
+  width: 50%;
+  align-self: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}

@@ -1,0 +1,9 @@
+.limageslider img {
+  width: 140px;
+  border-radius: 12px;
+}
+.limageslider div {
+  padding: 1.2rem;
+  font-size: 1.2rem;
+  margin: 12px;
+}

@@ -1,0 +1,9 @@
+.mypost-container {
+  width: 30%;
+  margin: 10rem auto;
+  margin-bottom: 30rem;
+}
+.mypost-title {
+  font-size: 2.3rem;
+  font-weight: 600;
+}

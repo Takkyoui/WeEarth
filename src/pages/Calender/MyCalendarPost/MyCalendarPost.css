@@ -1,0 +1,70 @@
+.mycalendar-container {
+  width: 50%;
+  margin: 10rem auto;
+}
+.mycalendar-content {
+  display: flex;
+  flex-direction: column;
+  /* background: url(../../../assets/note.jpg); */
+  background-size: cover; /* 배경 이미지를 요소에 맞게 조정 */
+  background-repeat: no-repeat;
+  font-size: 1.3rem;
+  padding: 1.2rem;
+}
+.mycalendar-mydiary {
+  font-size: 3rem;
+}
+.mycalendar-image {
+  margin: 1rem 0;
+}
+.mycalnedar-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.mycalendar-score-img img {
+  width: 100px;
+}
+.mycalendar-title {
+  font-size: 2.3rem;
+  font-weight: 700;
+}
+.mycalendar-contents {
+  margin-top: 1rem;
+}
+.mycalendar-image img {
+  width: 100%;
+  border-radius: 12px;
+  border: 1px solid black;
+}
+
+.mycalnedart-header-btn {
+  display: flex;
+  gap: 1rem;
+}
+.mycalnedart-header-btn div:nth-child(1) {
+  color: rgb(126, 177, 126);
+}
+.mycalnedart-header-btn div:nth-child(2) {
+  color: rgb(255, 116, 116);
+}
+
+.mycalendar-date {
+  font-size: 1.2rem;
+  color: gray;
+}
+.mycalendar-score {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.mycalendar-score-img {
+  opacity: 0.5;
+}
+.mycalendar-score {
+  font-size: 1rem;
+}

@@ -1,0 +1,136 @@
+.mypage {
+  background-color: aliceblue;
+  padding: 1.2rem;
+}
+
+.mypage-my-profile {
+  font-size: 2rem;
+  margin: 1rem 0;
+}
+.mypage-profile-info {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+.mypage-profile-image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 2rem 0;
+}
+.mypage-profile-info-box {
+  display: flex;
+  padding: 1.2rem;
+  gap: 2rem;
+}
+.mypage-profile-info-box div {
+  font-size: 1.2rem;
+}
+.mypage-container {
+  background-color: white;
+  width: 23%;
+  box-shadow: 3px 14px 14px rgba(0, 0, 0, 0.2);
+  margin: 10rem auto;
+  border-radius: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 5rem;
+}
+.mypage-profile-image img {
+  width: 10rem;
+  height: 10rem;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.mypage-profile-info-btn {
+  display: flex;
+  margin: 3rem 0;
+  gap: 1rem;
+}
+.mypage-profile-info-box-f {
+  flex: 2;
+}
+.mypage-profile-info-box-b {
+  flex: 5;
+}
+
+.mypage-profile-info-btn button {
+  border-radius: 3rem;
+  border: none;
+  padding: 1rem;
+}
+.mypage-profile-info-btn button:nth-child(2) {
+  border-radius: 3rem;
+  color: rgb(252, 134, 134);
+  background-color: white;
+  border: 1px solid rgb(252, 131, 131);
+  padding: 1rem;
+}
+.mypage-profile-info-btn button:nth-child(2):hover {
+  border-radius: 3rem;
+  color: white;
+  background-color: rgb(255, 146, 146);
+  border: 1px solid rgb(255, 146, 146);
+  padding: 1rem;
+}
+/* UpdateUserModal.css */
+.modal {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  padding: 20px;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  z-index: 100;
+}
+
+.modal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.modal-title {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.modal-content {
+  margin-bottom: 20px;
+}
+
+.modal-input {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.modal-buttons {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.modal-button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-left: 10px;
+}
+.mypage-edit-btn {
+  display: flex;
+  justify-content: end;
+  width: 100%;
+}
+.modal-button:hover {
+  background-color: #0056b3;
+}

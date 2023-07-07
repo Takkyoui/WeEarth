@@ -1,0 +1,46 @@
+.postcard-profile img {
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+.postcard h5 {
+  color: gray;
+}
+.postcard h2 {
+  color: rgb(29, 29, 29);
+}
+.postcard h3 {
+  color: rgb(90, 90, 90);
+}
+.postcard-profile {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+}
+
+.postcard-profile h2 {
+  font-size: 1.1rem;
+}
+.postcard {
+  box-sizing: border-box;
+  padding: 1rem;
+  margin-top: 1.2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+.postcard-profile {
+  display: flex;
+  gap: 1rem;
+}
+.postcard-footer-etc {
+  display: flex;
+  gap: 12px;
+}
+.postcard-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
