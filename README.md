@@ -39,6 +39,19 @@ WeEarth는 사용자가 일상에서 환경 보호에 기여하는 것을 장려
 
 ## 기술 스택
 
+##Frontend 
+<br>
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" height="40"/> 
+    <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="40" height="40"/>
+    
+  
+
+##Backend
+
+
+    
 | JavaScript | TypeScript |  React   |  Node   |
 | :--------: | :--------: | :------: | :-----: |
 |   ![js]    |   ![ts]    | ![react] | ![node] |
