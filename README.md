@@ -39,52 +39,69 @@ WeEarth는 사용자가 일상에서 환경 보호에 기여하는 것을 장려
 
 ## 기술 스택
 
-##Frontend 
-<br>
+<br>   
+    
+- **Front-End Development**:
+
     <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40" height="40"/>
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/>
-    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" height="40"/> 
+    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" height="40"/>
     <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="40" height="40"/>
     
+
+ 
+
+<br>
+
+- **Back-End Development**:
   
-
-##Backend
-
-
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
     
-| JavaScript | TypeScript |  React   |  Node   |
-| :--------: | :--------: | :------: | :-----: |
-|   ![js]    |   ![ts]    | ![react] | ![node] |
 
 <br>
 
 ## 구현 기능
 
-### 기능 1
+### 회원 기능
+- 회원 가입
+- 로그인
+- 로그아웃
+- 회원 정보 수정
 
-### 기능 2
+### 다이어리 기능
+- 일기 작성
+- 일기 삭제
+- 일기 수정
 
-### 기능 3
+### 커뮤니티 기능
+- 커뮤니티 작성
+- 커뮤니티 수정
+- 커뮤니티 삭제
+- 좋아요 기능
+- 댓글 기능
 
-### 기능 4
+### 뉴스 기능
+- 네이버 크롤링을 통한 뉴스 표시
+
+### 캘린더 기능
+- react-calendar 라이브러리를 사용한 캘린더 구현
+
+기타 정보:
+- 뉴스 페이퍼 작성 시, axios, cheerio, iconv 라이브러리를 사용한 크롤링
 
 <br>
 
 ## 배운 점 & 아쉬운 점
 
 <p align="justify">
+배운 점은 다음과 같습니다. 전체적인 프로젝트의 로직을 이해하고 구현하면서 중간에 사용한 라이브러리들인 multer, calendar, cheerio 등에 대해 학습하였습니다. 또한, 코드를 깔끔하게 작성하고 리팩토링하여 가독성을 높이고자 노력하였습니다.
 
+하지만 아쉬웠던 점도 있습니다. TypeScript에서 타입을 사용하는 부분에서 아직 미숙한 점이 있었고, 백엔드에서 TypeScript를 충분히 활용하지 못한 점이 아쉬웠습니다. 또한, 코드를 더 깔끔하게 작성하지 못한 부분도 아쉬웠습니다. 앞으로는 이러한 부분들에 대해 더욱 신경쓰고, 리팩토링을 통해 코드를 더 깔끔하게 개선해나가고자 합니다.
 </p>
 
 <br>
 
-## 라이센스
 
-MIT &copy; [NoHack](mailto:lbjp114@gmail.com)
-
-<!-- Stack Icon Refernces -->
-
-[js]: /images/stack/javascript.svg
-[ts]: /images/stack/typescript.svg
-[react]: /images/stack/react.svg
-[node]: /images/stack/node.svg
