@@ -1,4 +1,4 @@
-# 프로젝트 이름
+# WeEarth (환경 일기 프로젝트)
 
 <p align="center">
   <br>
