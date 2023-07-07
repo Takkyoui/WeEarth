@@ -105,6 +105,14 @@ WeEarth는 사용자가 일상에서 환경 보호에 기여하는 것을 장려
 <br>
 
 ## 디테일 
+<img width="1456" alt="스크린샷 2023-07-07 오후 4 03 48" src="https://github.com/Takkyoui/portfolio/assets/126454758/74c94583-e21e-4c0a-a6e4-33a288b0b1b7">
+<img width="1393" alt="스크린샷 2023-07-07 오후 4 03 56" src="https://github.com/Takkyoui/portfolio/assets/126454758/5e8a2081-0fb9-4a98-9a9e-ac750f42fad6">
+<img width="1099" alt="스크린샷 2023-07-07 오후 4 05 21" src="https://github.com/Takkyoui/portfolio/assets/126454758/e38f8055-e668-43ae-a725-2eadadfe920f">
+<img width="1069" alt="스크린샷 2023-07-07 오후 3 31 10" src="https://github.com/Takkyoui/portfolio/assets/126454758/ac162ba0-cb7a-4cc8-986c-4d2ff0535df1">
+<img width="1033" alt="스크린샷 2023-07-07 오후 4 05 43" src="https://github.com/Takkyoui/portfolio/assets/126454758/a9f2aad9-2b48-4f29-9fa6-869836898eb8">
+
+
+
 
 
 
